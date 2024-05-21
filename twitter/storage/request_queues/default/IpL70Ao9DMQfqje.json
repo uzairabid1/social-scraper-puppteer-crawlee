@@ -1,0 +1,9 @@
+{
+	"id": "IpL70Ao9DMQfqje",
+	"json": "{\"id\":\"IpL70Ao9DMQfqje\",\"url\":\"https://twitter.com/i/flow/login\",\"uniqueKey\":\"https://twitter.com/i/flow/login\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1700686608872,
+	"retryCount": 0,
+	"uniqueKey": "https://twitter.com/i/flow/login",
+	"url": "https://twitter.com/i/flow/login"
+}

@@ -1,0 +1,37 @@
+{
+  "requestsFinished": 0,
+  "requestsFailed": 0,
+  "requestsRetries": 0,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2023-10-29T07:20:11.540Z",
+  "crawlerFinishedAt": null,
+  "statsPersistedAt": "2023-10-29T07:31:11.610Z",
+  "crawlerRuntimeMillis": 660134,
+  "crawlerLastStartTimestamp": 1698564011476,
+  "requestRetryHistogram": [],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 0,
+  "requestsTotal": 0,
+  "requestsWithStatusCode": {
+    "200": 2
+  },
+  "errors": {},
+  "retryErrors": {
+    "file:///E:/upwork/crawleeScraper/youtube/main.js:85:27": {
+      "missing error code": {
+        "Error": {
+          "No video id found: knhzSEv5Xpk&pp=sAQB": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}

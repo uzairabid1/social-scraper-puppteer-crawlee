@@ -1,0 +1,125 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_3bzYhlJPFe",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-10-31T23:09:11.180Z",
+      "createdAt": "2023-10-31T22:19:11.180Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_G3JAtiikUd",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "session_tracker",
+            "value": "fbhileafocacohhlfp.0.1698790755978.Z0FBQUFBQmxRWDFqTzNKLV9DTDR4NDJJeVpMV2FkVFl2ZkdwUjQ1YTlkYWpTT1Y1M1hzcTdXWnlYR3Z6V3BGSVB6Z09saGVpbkxFNVNKY2c2MjVfcTFJTkFvdmtZVWZvYVlBanpxazVaUEtKR29kQk9Xa3BqUDZNSXlJeUwzZ0trQlNmVHd3RnFzV0E",
+            "expires": "2023-10-31T23:09:15.540Z",
+            "domain": "reddit.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2023-10-31T22:19:15.544Z",
+            "lastAccessed": "2023-10-31T22:19:15.544Z"
+          },
+          {
+            "key": "csv",
+            "value": "2",
+            "expires": "2024-12-04T22:19:13.294Z",
+            "domain": "reddit.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2023-10-31T22:19:15.553Z",
+            "lastAccessed": "2023-10-31T22:19:15.553Z"
+          },
+          {
+            "key": "csrf_token",
+            "value": "ebdc79ae38d7e36b2851a1cd57574498",
+            "expires": "2023-10-31T23:09:15.540Z",
+            "domain": "reddit.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2023-10-31T22:19:15.556Z",
+            "lastAccessed": "2023-10-31T22:19:15.556Z"
+          },
+          {
+            "key": "rdt",
+            "value": "54798fcaf4ff7dff77c0a179cfc2d38b",
+            "expires": "2023-10-31T23:09:15.540Z",
+            "domain": "reddit.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2023-10-31T22:19:15.557Z",
+            "lastAccessed": "2023-10-31T22:19:15.557Z"
+          },
+          {
+            "key": "token_v2",
+            "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IlNIQTI1NjpzS3dsMnlsV0VtMjVmcXhwTU40cWY4MXE2OWFFdWFyMnpLMUdhVGxjdWNZIiwidHlwIjoiSldUIn0.eyJzdWIiOiJsb2lkIiwiZXhwIjoxNjk4ODc3MTUzLjg1MjI3NSwiaWF0IjoxNjk4NzkwNzUzLjg1MjI3NSwianRpIjoiV2lCemRlOTRSZFR6dm9tbU9xSjcyaTJoZzgycHJRIiwiY2lkIjoiMFItV0FNaHVvby1NeVEiLCJsaWQiOiJ0Ml9teTF5dm8zdDciLCJsY2EiOjE2OTg3OTA3NTM4NTEsInNjcCI6ImVKeGtrZEdPdERBSWhkLWwxejdCX3lwX05odHNjWWFzTFFhb2szbjdEVm9jazcwN2NENHBIUDhuS0lxRkxFMnVCS0c0eXBsNzgxNFdMSVZNMDVRR3RheEFrcWIwSkRXV2Q1b1NGV3hHNW5LbEhTczBlR0NhVXVXU3VTMzB1TFFKemQxWTlPekVxTXBsNVVGVm9QVlVqVzFNWVh0aWZMT3gycENLNjNJcUUxZ1d5bWZ4b2g5eTlkWS1mN2JmaEhZd3JLZ0tEX1RPdUZWd1lfSERGSFpfVDAxNnRpNVkxTjdyUVdxZjYzRzc5bG16ME96Y2ZxN25yNDFrWEk2aC1RbjI3NjVmUWdjZWVWNW0xQUdNV01PUE11eklPdnlyRHFCeVFRRmpDZUxUQ09USzVkdF9DYlpyMDdfRzdSTV9mRFBpcGpmODFnelVjd25pMEtmeDlSc0FBUF9fSV9yYXVRIiwiZmxvIjoxfQ.aH2QBy5mv5Tl5flWVpCBuUHb7k9PLrgJw3CWOQqfRPjATN5FA7yaMl7js8-06qjUuEFdclp29uTIvaGBfxb_AEhNFn8Hlr2wrMBnHvkQJasAnEqnSlscLbJ93VEMOvRINA3yXM9WQTwcYCYvHBkp0jzX1cehKD0DyrTNtMwhapegruyiGV3ctrE6lEC-O1DSZPCPQfNH3q_JuR3SEfvNkxGsEpjuDGF_nJGN5LyYPMx9mUrg8tEC0q1s5eTIOLcHx7roTuJUjxjlDhBfLoFxiHRMGxE1fH0y7OeGQWHpBUhcY4h0IR4KWmirjosyKgoy_YQYW2TcJGq5qxTl_QAeEQ",
+            "expires": "2023-11-01T22:19:13.294Z",
+            "domain": "reddit.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-10-31T22:19:15.558Z",
+            "lastAccessed": "2023-10-31T22:19:15.558Z"
+          },
+          {
+            "key": "loid",
+            "value": "000000000my1yvo3t7.2.1698790753851.Z0FBQUFBQmxRWDFoTUs4WWZlVl9iSDJ6UUF3RXFsbDhIZHdSY3ZQdWFlT3hjemtINXA5TThOWTJoNEtzZnk5X2t4UllSUWFITU1TcnA0QlNVeVJmOElGN19vYTZZTmZZb0x3MGtRZTh3ZHdMTUlMQXo4QjFfS0ZxUDhOUU9pN3JUbnF5UUhnelpTdnc",
+            "expires": "2024-12-04T22:19:13.293Z",
+            "domain": "reddit.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2023-10-31T22:19:15.559Z",
+            "lastAccessed": "2023-10-31T22:19:15.559Z"
+          },
+          {
+            "key": "edgebucket",
+            "value": "RSwosBt6uG7pgPacfT",
+            "expires": "2024-12-04T22:19:12.814Z",
+            "domain": "reddit.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2023-10-31T22:19:15.560Z",
+            "lastAccessed": "2023-10-31T22:19:15.560Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-10-31T23:09:11.185Z",
+      "createdAt": "2023-10-31T22:19:11.185Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

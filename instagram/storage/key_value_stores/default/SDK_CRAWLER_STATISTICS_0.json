@@ -1,0 +1,59 @@
+{
+  "requestsFinished": 0,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 15012,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2023-10-27T11:44:06.960Z",
+  "crawlerFinishedAt": null,
+  "statsPersistedAt": "2023-10-27T11:46:11.799Z",
+  "crawlerRuntimeMillis": 124911,
+  "crawlerLastStartTimestamp": 1698407046888,
+  "requestRetryHistogram": [
+    null,
+    1
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 15012,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 15012,
+  "requestsTotal": 1,
+  "requestsWithStatusCode": {
+    "200": 1
+  },
+  "errors": {
+    "E:\\upwork\\crawleeScraper\\node_modules\\@crawlee\\browser-pool\\browser-pool.js:386:19": {
+      "missing error code": {
+        "Error": {
+          "browserController.newPage() failed: CKA-1ymmWJwT5hkNDuU6O": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "E:\\upwork\\crawleeScraper\\node_modules\\puppeteer-core\\lib\\cjs\\puppeteer\\cdp\\Connection.js:139:36": {
+      "missing error code": {
+        "TargetCloseError": {
+          "Waiting for selector `.//canvas/parent::div/span/img` failed: Protocol error (Runtime.callFunctionOn): Target closed": {
+            "count": 1
+          }
+        }
+      }
+    },
+    "E:\\upwork\\crawleeScraper\\node_modules\\puppeteer-core\\lib\\cjs\\puppeteer\\cdp\\Connection.js:42:14": {
+      "missing error code": {
+        "ProtocolError": {
+          "Unknown error message. Received non-error object: {\"name\":\"ProtocolError\"}": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}

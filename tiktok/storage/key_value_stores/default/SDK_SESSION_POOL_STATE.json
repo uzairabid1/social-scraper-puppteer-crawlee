@@ -1,0 +1,93 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_6q3Geyu9KH",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-11-05T15:14:41.858Z",
+      "createdAt": "2023-11-05T14:24:41.858Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_5OzU2Zpkk1",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "tea_sid",
+            "value": "60f1c550-bf91-48dd-a190-99733d9880b5",
+            "expires": "2023-11-05T15:14:48.490Z",
+            "domain": "www.tiktok.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2023-11-05T14:24:48.493Z",
+            "lastAccessed": "2023-11-05T14:24:48.493Z"
+          },
+          {
+            "key": "tt_chain_token",
+            "value": "TgDCoRWlfdtKzpkp7jiTkw==",
+            "expires": "2024-05-03T14:24:44.138Z",
+            "domain": "tiktok.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-11-05T14:24:48.497Z",
+            "lastAccessed": "2023-11-05T14:24:48.497Z"
+          },
+          {
+            "key": "tt_csrf_token",
+            "value": "KLKvYwRL-xjJJfB7j860DDxmxCMgUhWzUc5Y",
+            "expires": "2023-11-05T15:14:48.491Z",
+            "domain": "tiktok.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-11-05T14:24:48.503Z",
+            "lastAccessed": "2023-11-05T14:24:48.503Z"
+          },
+          {
+            "key": "ttwid",
+            "value": "1%7CsQoIqXVz3mINOBKxb24eq0aUpX2phaetRtF_2aTw11k%7C1699194283%7Cefbe503e196bcf1227f6f2e7e2f0f79e83f4e9ec7cc4447d242738cf8f0014c7",
+            "expires": "2024-10-30T14:24:44.138Z",
+            "domain": "tiktok.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-11-05T14:24:48.506Z",
+            "lastAccessed": "2023-11-05T14:24:48.506Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-11-05T15:14:41.863Z",
+      "createdAt": "2023-11-05T14:24:41.863Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
